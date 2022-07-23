@@ -2,6 +2,8 @@
 
 <div id="header" align="center">
   <img  src="https://media1.giphy.com/media/xpBiaXFbVUtTa/giphy.gif" width="500"/>
+  
+  <em>“The wand chooses the wizard.”</em>
 </div>
 
 - 🔭 I’m currently working on handwritten OCR with [Tesseract](https://github.com/tesseract-ocr/tesseract)
