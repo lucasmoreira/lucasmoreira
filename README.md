@@ -6,7 +6,7 @@
   <em>“The wand chooses the wizard.”</em>
 </div>
 
-- 🔭 I’m currently working on handwritten OCR with [Tesseract](https://github.com/tesseract-ocr/tesseract)
+- 🔭 I’m currently working on ML for Collusion detection/classification and handwritten OCR with [Tesseract](https://github.com/tesseract-ocr/tesseract)
 - 🌱 I’m currently doing a masters in Industrial Engineering in Information technology
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-lucasmoreirag-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmoreirag/)
 ---
