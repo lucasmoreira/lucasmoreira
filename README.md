@@ -26,5 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" title="Flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://www.pnglib.com/wp-content/uploads/2020/01/cordova-logo_5e26e5c6d5564.png" title="Cordova" **alt="Cordova" width="40" height="40"/>
 </div>
 
