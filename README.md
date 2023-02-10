@@ -28,5 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" title="Flask" **alt="Flask" width="40" height="40"/>
   <img src="https://www.pnglib.com/wp-content/uploads/2020/01/cordova-logo_5e26e5c6d5564.png" title="Cordova" **alt="Cordova" width="40" height="40"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Factivators4windows.com%2Fwp-content%2Fuploads%2F2021%2F02%2Flogo-1536x1536.png&f=1&nofb=1&ipt=2d2c12682288db89dc12b923f14b1d04e8f6fe49edadae8b30e3fa5f9c506bb5&ipo=images" title="R" **alt="R" width="40" height="40"/>
 </div>
+
 
